@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Data Analyst",
+        "required_skills": {"SQL": 80, "Excel": 70, "Python": 60}
+    },
+    {
+        "role": "Python Developer",
+        "required_skills": {"Python": 80}
+    },
+    {
+        "role": "ML Engineer",
+        "required_skills": {"Python": 70, "Machine Learning": 70, "Statistics": 60}
+    },
+    {
+        "role": "Data Scientist",
+        "required_skills": {"Python": 70, "Machine Learning": 70, "Statistics": 70}
+    }
+]

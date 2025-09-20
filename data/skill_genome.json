@@ -1,0 +1,7 @@
+{
+    "Python": {"related_roles": ["Python Developer", "Data Analyst"], "prerequisites": []},
+    "SQL": {"related_roles": ["Data Analyst", "BI Analyst"], "prerequisites": []},
+    "Excel": {"related_roles": ["Data Analyst"], "prerequisites": []},
+    "Machine Learning": {"related_roles": ["ML Engineer", "Data Scientist"], "prerequisites": ["Python", "Statistics"]},
+    "Statistics": {"related_roles": ["Data Scientist", "ML Engineer"], "prerequisites": []}
+}
